@@ -1,0 +1,6 @@
+Metales de trancicion
+
+Titanio (Ti),Cromo (Cr),Escandio (Sc),Vanadio (V),Hierro (Fe),Níquel (Ni),Manganeso (Mn),Zinc (Zn),Cobalto (Co),Cobre (Cu),Zirconio (Zr),Molibdeno (Mo),Rutenio (Ru),Itrio (Y),Niobio (Nb),Tecnecio (Tc),Paladio (Pd),Plata (Ag),Rodio (Rh),Lutecio (Lu),Cadmio (Cd),Wolframio (W),Osmio (Os),Renio (Re),Tantalio (Ta),Iridio (Ir),Mercurio (Hg),Platino (Pd),Laurencio (Lr),Oro (Au),Dubnio (Db),Bohrio (Bh),Hassio (Hs),Darmstatio (Ds),Seaborgio (Sg),Meitnerio (Mt),Copernicio (Cn),Roentgenio (Rg),Hafnio (Hf),Rutherfordio (Rf),
+
+
+'Ti','Cr','Sc','V','Fe','Ni','Mn','Zn','Co','Cu','Zr','Mo','Ru','Y','Nb','Tc','Pd','Ag','Rh','Lu','Cd','W','Os','Re','Ta','Ir','Hg','Pd','Lr','Au','Db','Bh','Hs','Ds','Sg','Mt','Cn','Rg','Hf','Rf',
