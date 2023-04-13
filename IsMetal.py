@@ -1,4 +1,4 @@
-def IsMetal(s):
+def IsMetal(m):
     '''str -> (Boolean)
     return True if s is a metal
 
@@ -15,4 +15,4 @@ def IsMetal(s):
           'Os','Re','Ta','Ir','Hg','Pd','Lr','Au','Db','Bh','Hs',
           'Ds','Sg','Mt','Cn','Rg','Hf','Rf']
 
-    return  s in Metals 
+    return  m in Metals 
