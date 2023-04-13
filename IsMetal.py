@@ -10,9 +10,11 @@ def IsMetal(m):
     False
     '''
     #ista de los meales en la tabla periodica
-    Metals = ['Ti','Cr','Sc','V','Fe','Ni','Mn','Zn','Co','Cu','Zr',
+    M_simbols = ['Ti','Cr','Sc','V','Fe','Ni','Mn','Zn','Co','Cu','Zr',
           'Mo','Ru','Y','Nb','Tc','Pd','Ag','Rh','Lu','Cd','W',
           'Os','Re','Ta','Ir','Hg','Pd','Lr','Au','Db','Bh','Hs',
           'Ds','Sg','Mt','Cn','Rg','Hf','Rf']
 
-    return  m in Metals 
+
+    return  s in M_simbols 
+
