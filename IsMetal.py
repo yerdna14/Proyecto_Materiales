@@ -16,5 +16,8 @@ def IsMetal(m):
           'Ds','Sg','Mt','Cn','Rg','Hf','Rf']
 
 
-    return  s in M_simbols 
+    if  m in M_simbols:
+        return 'es un metal'
+    else:
+        return 'no es metal'
 
