@@ -1,6 +1,6 @@
 def IsMetal(m):
     '''str -> (Boolean)
-    return True if s is a metal
+    return True if s is a metal.
 
     >>>IsMetal('Fe')
     True
@@ -9,13 +9,13 @@ def IsMetal(m):
     >>>IsMetal('H')
     False
     '''
-    #ista de los meales en la tabla periodica
+    #lista de los meales en la tabla periodica
     M_simbols = ['Ti','Cr','Sc','V','Fe','Ni','Mn','Zn','Co','Cu','Zr',
           'Mo','Ru','Y','Nb','Tc','Pd','Ag','Rh','Lu','Cd','W',
           'Os','Re','Ta','Ir','Hg','Pd','Lr','Au','Db','Bh','Hs',
           'Ds','Sg','Mt','Cn','Rg','Hf','Rf']
 
-
+   #compara si el simbobolo m pertenece a la lista M_simbols
     if  m in M_simbols:
         return 'es un metal'
     else:
