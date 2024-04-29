@@ -17,7 +17,7 @@ def IsMetal(m):
 
    #compara si el simbobolo m pertenece a la lista M_simbols
     if  m in M_simbols:
-        return 'es un metal'
+        return 'Ns un metal'
     else:
-        return 'no es metal'
+        return 'No es metal'
 

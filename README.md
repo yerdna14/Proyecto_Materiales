@@ -1,4 +1,3 @@
 # Proyecto_Materiales
 -1
-Esto es un nuevo comienzo 
-En busca de formas de 'recuperar lo perdido' y que no se sienta tanto estos cambios inesperados en nuestra cultura, en busca de ayudar a esa persona que debe ir a trabajar por que su familia depende de ello, se pretende investigar nuevos metodos de mitigacion del virus
+Por ahora para 2024 vamos abuscar conocer sobre material genome iniciative, aprender de apis con python y R. con las bases de `Ingenieria de materiales`
