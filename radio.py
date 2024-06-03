@@ -25,5 +25,18 @@ def rad_bcc(a):
 	>>> rad_bcc(5)
 	2.1650635094610964
 	'''
-	const = math.sqrt(3)/4
-	return const*a
+	c_bcc = math.sqrt(3)/4
+	return c_bcc*a
+
+def rad_fcc(a):
+	'''(num)-> float
+	
+	Retorna el radio de una estructura cristalina
+	FCC con parametro de red a en nm.
+	>>> rad_fcc(4)
+	1.4142135623730951
+	>>> rad_fcc(5.6568)
+	2
+	'''
+	c_fcc = math.sqrt(2)/4
+	return c_fcc*a
