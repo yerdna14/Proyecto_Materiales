@@ -5,7 +5,7 @@ def v_cubic(a):
         (num) -> float
 	
 	Retorna el volumen de una estructura cubica 
-	con parametro de red a.
+	con parametro de red a en mm.
 
 	>>> v_cubic(2)
 	8.0
@@ -17,7 +17,7 @@ def v_cubic(a):
 def v_tet(a,b):
 	'''(number, number) -> number
 	Retorna el volumen de un solido con estructura 
-	tetaedrica con parametros de red a,b.
+	tetaedrica con parametros de red a,b en mm.
 
 	>>> v_tet(2,3)
 	12
@@ -29,7 +29,7 @@ def v_tet(a,b):
 def v_orto(a,b,c):
 	'''(number,number,number) -> number
 	Retorna el volumen de un solido con estructura
-	ortorombica con parametros de red a,b y c.
+	ortorombica con parametros de red a,b y c en mm.
 
 	>>> v_orto(2,3,4)
 	24
