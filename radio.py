@@ -40,3 +40,6 @@ def rad_fcc(a):
 	'''
 	c_fcc = math.sqrt(2)/4
 	return c_fcc*a
+
+import doctest
+doctest.testmod()
