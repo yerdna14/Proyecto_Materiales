@@ -38,3 +38,5 @@ def v_orto(a,b,c):
 	'''
 	return a*b*c
 			
+import doctest
+doctest.testmod()
