@@ -8,13 +8,12 @@ def v_cubic(a):
 	con parametro de red a en mm.
 
 	>>> v_cubic(2)
-	8.0
+	8
 	>>> v_cubic(3)
-	27.0
-    '''
-    v_c = a**3
-    if __name__ == __main__:
-    print('El volumen de la estructura cubica con parametro ',a,'es',v_c)
+	27
+       '''
+	v_c = a**3
+	
 	return v_c
 
 def v_tet(a,b):
