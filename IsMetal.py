@@ -21,3 +21,6 @@ def IsMetal(m):
     else:
         return 'No es metal'
 
+if __name__ == __main__:
+    IsMetal('Al')
+    print('This line is being executed because this is the main module being executed.')
