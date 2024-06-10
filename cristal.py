@@ -12,7 +12,10 @@ def v_cubic(a):
 	>>> v_cubic(3)
 	27.0
     '''
-	return a**3
+    v_c = a**3
+    if __name__ == __main__:
+    print('El volumen de la estructura cubica con parametro ',a,'es',v_c)
+	return v_c
 
 def v_tet(a,b):
 	'''(number, number) -> number
