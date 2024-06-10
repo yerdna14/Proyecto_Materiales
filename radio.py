@@ -8,7 +8,7 @@ def rad_sc(a):
 	de red a en nm.
 
 	>>> rad_sc(2)
-	1
+	1.0
 	>>> rad_sc(5)
 	2.5
 	'''
@@ -36,10 +36,23 @@ def rad_fcc(a):
 	>>> rad_fcc(4)
 	1.4142135623730951
 	>>> rad_fcc(5.6568)
-	2
+	1.9999808199080311
 	'''
 	c_fcc = math.sqrt(2)/4
 	return c_fcc*a
+
+def rad_hcp(a):
+	'''(num)-> float
+	
+	Retorna el radio de una estructura cristalina
+	HCP con parametro de red a en nm.
+	>>> rad_hcp(4)
+	2.0
+	>>> rad_hcp(8)
+	4.0
+	'''
+	c_hcp = 2
+	return a/c_hcp
 
 import doctest
 doctest.testmod()
