@@ -39,7 +39,10 @@ def rad_fcc(a):
 	1.9999808199080311
 	'''
 	c_fcc = math.sqrt(2)/4
-	return c_fcc*a
+	r_fcc = c_fcc*a
+	if __name__ == __main__:
+    print('El radio de la estructura fcc con parametro ',a,'es',r_fcc)
+	return r_fcc
 
 def rad_hcp(a):
 	'''(num)-> float
