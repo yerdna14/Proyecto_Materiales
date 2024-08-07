@@ -59,3 +59,4 @@ def rad_hcp(a):
 
 import doctest
 doctest.testmod()
+#Pronto agregaremos mas.
