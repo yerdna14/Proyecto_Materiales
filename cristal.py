@@ -1,4 +1,4 @@
-#Cristalino 
+#Cristalino volumen
 
 def v_cubic(a): 
 	'''
