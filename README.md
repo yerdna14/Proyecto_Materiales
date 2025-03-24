@@ -4,3 +4,5 @@ Por ahora para 2024 vamos abuscar conocer sobre material genome iniciative, apre
 Tambien hacer repasos de la importancia de la simetria en las propiedades de los materiales.
 
 Pronto mas contenido.
+
+Todavia estamos buscando mas contenido en este 2025.
