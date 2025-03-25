@@ -1,3 +1,4 @@
+# Para el 2025 mas funciones.
 def IsMetal(m):
     '''str -> (Boolean)
     return True if s is a metal.
