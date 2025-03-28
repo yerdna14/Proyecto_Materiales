@@ -1,3 +1,5 @@
+#Pronto disccionario como e genome
+
 Metales de trancicion
 
 Titanio (Ti),Cromo (Cr),Escandio (Sc),Vanadio (V),Hierro (Fe),Níquel (Ni),Manganeso (Mn),Zinc (Zn),Cobalto (Co),Cobre (Cu),Zirconio (Zr),Molibdeno (Mo),Rutenio (Ru),Itrio (Y),Niobio (Nb),Tecnecio (Tc),Paladio (Pd),Plata (Ag),Rodio (Rh),Lutecio (Lu),Cadmio (Cd),Wolframio (W),Osmio (Os),Renio (Re),Tantalio (Ta),Iridio (Ir),Mercurio (Hg),Platino (Pd),Laurencio (Lr),Oro (Au),Dubnio (Db),Bohrio (Bh),Hassio (Hs),Darmstatio (Ds),Seaborgio (Sg),Meitnerio (Mt),Copernicio (Cn),Roentgenio (Rg),Hafnio (Hf),Rutherfordio (Rf),
