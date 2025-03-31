@@ -5,7 +5,7 @@ def check_rei():
 	'''
 	Retorna True si el compu tiene pendiente un reinicio
 	'''
-	return os.path.exist('/run/reboot-required')
+	return os.path.exists('/run/reboot-required')
 
 def main():
 	if check_rei():
