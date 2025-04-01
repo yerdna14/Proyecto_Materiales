@@ -1,4 +1,5 @@
 #Pronto disccionario como e genome
+#Base no sql
 
 Metales de trancicion
 
