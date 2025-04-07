@@ -1,4 +1,4 @@
-# Para el 2025 mas funciones.
+# Para el 2025 mas funciones. Simetria
 def IsMetal(m):
     '''str -> (Boolean)
     return True if s is a metal.
