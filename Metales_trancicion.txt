@@ -1,5 +1,6 @@
-#Pronto disccionario como e genome
+#Pronto disccionario como en genome
 #Base no sql
+# abril 11
 
 Metales de trancicion
 
