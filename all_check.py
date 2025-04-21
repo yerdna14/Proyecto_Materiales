@@ -11,9 +11,6 @@ def main():
 	if check_rei():
 		print('Reinicio pendiente')
 		sys.exit(1)
-	if disk_full():
-		print('disco lleno')
-		sys.exit(1)
 	print('Todo ok.')
 	sys.exit(0)
 
