@@ -1,5 +1,5 @@
 #Pronto mas en este 2025
-@Author:Andrey
+# @Author:Andrey
 import math
 #Paquete de funciones para calcular el parametro de red a0  de diferentes estructuras cristalinas
 def lat_sc(r):
