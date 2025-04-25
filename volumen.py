@@ -1,4 +1,5 @@
 #Cristalino volumen
+# @author: Andrey
 
 def v_cubic(a): 
 	'''
