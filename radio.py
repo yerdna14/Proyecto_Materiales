@@ -1,4 +1,5 @@
 #Libreria en base a los libros de skelan y callister
+# @author: Andrey
 import math
 #Paquete de funciones para calcular el radio de diferentes estructuras cristalinas
 def rad_sc(a):
