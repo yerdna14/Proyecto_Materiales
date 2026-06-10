@@ -4,3 +4,5 @@ Por ahora para 2025 vamos abuscar conocer sobre material genome iniciative, apre
 Tambien hacer repasos de la importancia de la simetria en las propiedades de los materiales.
 
 Tambien un poco de proyectos libres. Como editarolos. con la intencion de saner sobre simetrias y poder convinarla con la computacion.
+
+Para el 2026 vamos a revisar las alternativas con la IA y aprender ha participar colaborativamente.
