@@ -1,6 +1,6 @@
 # Proyecto_Materiales
 -1
-Por ahora para 2025 vamos abuscar conocer sobre material genome iniciative, aprender de apis con python y R. con las bases de `Ingenieria de materiales`
+Por ahora para 2026 vamos abuscar conocer sobre material genome iniciative, aprender de apis con python y R. con las bases de `Ingenieria de materiales`
 Tambien hacer repasos de la importancia de la simetria en las propiedades de los materiales.
 
 Tambien un poco de proyectos libres. Como editarolos. con la intencion de saner sobre simetrias y poder convinarla con la computacion.

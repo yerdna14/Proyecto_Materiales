@@ -1,4 +1,4 @@
-# Para el 2025 mas funciones. Simetria
+# Para el 2026 mas funciones. Simetria
 
 # @author : Andrey Montaño
 

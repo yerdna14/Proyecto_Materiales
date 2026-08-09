@@ -1,4 +1,4 @@
-#Pronto mas en este 2025
+#Pronto mas en este 2026
 # @Author:Andrey
 import math
 #Paquete de funciones para calcular el parametro de red a0  de diferentes estructuras cristalinas
