@@ -8,9 +8,9 @@ def lat_sc(r):
 	Retorna el parametro de red a0 de una estructura
 	cristalina cubica simple de radio r en nm.
 
-	>>> rad_sc(2)
+	>>> lad_sc(2)
 	1.0
-	>>> rad_sc(5)
+	>>> lad_sc(5)
 	2.5
 	'''
 	return r*2

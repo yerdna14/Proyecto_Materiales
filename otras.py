@@ -5,6 +5,5 @@ def otra(v):
  '''
 pass
 
- if __name__== __main__:
-
- 	print('todo ok para 2025')
+if __name__== __name__:
+	print('todo ok para 2025')
